@@ -6,12 +6,12 @@ ________________________
 - C " Best language " - **learning...**
 - C# " Cool " - already **learned**
 
-________________________
-
 > Future languages to learn:
 
 - Java
 - C++
+
+________________________
 
 **s/O gros délire en force**
 

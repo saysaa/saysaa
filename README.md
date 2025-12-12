@@ -2,9 +2,10 @@
 - Lyon, France &#127467;&#127479;
 ________________________
 
-> I dev in 
-- C " Best language " - **learning...**
-- C# " Cool " - already **learned**
+> I dev in
+> C
+> C#
+> Python
 
 > Future languages to learn:
 

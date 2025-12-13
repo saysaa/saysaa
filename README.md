@@ -2,9 +2,9 @@
 ________________________
 
 > I dev in
-> C
-> C#
-> Python
+- C
+- C#
+- Python
 
 > Future languages to learn:
 

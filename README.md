@@ -1,12 +1,12 @@
 - Lyon, France &#127467;&#127479;
 ________________________
 
-> I dev in
+## I dev in
 - C
 - C#
 - Python
 
-> Future languages to learn:
+## Future languages to learn:
 
 - Java
 - C++

@@ -28,7 +28,7 @@
 
 ---
 
-## 💬 Connect with me
+## 💬 Contact
 
 * **Discord:** `saysaa_`
 * *s/O gros délire en force* 🫡

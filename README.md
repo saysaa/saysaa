@@ -23,8 +23,7 @@
 
 ## 📊 GitHub Stats
 
-
-[![saysaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=saysaa)](https://github.com/anuraghazra/github-readme-stats)
+[![saysaa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=saysaa&theme=dark)](https://github.com/cyberbunny97/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saysaa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---

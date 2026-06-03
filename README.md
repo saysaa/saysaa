@@ -1,16 +1,12 @@
 <div align="center">
 
-<p>
-  <h1>👋 Hi, I'm saysaa!</h1>
-</p>
+<h3>👋 Hi, I'm saysaa!</h3>
 
 <img src="https://img.shields.io/badge/Location-Lyon,%20France%20%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="Lyon, France">
 
 <br><br>
 
-<p>
-  <b>💻 I develop with</b>
-</p>
+<h3>💻 I develop with</h3>
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -18,9 +14,7 @@
 
 <br><br>
 
-<p>
-  <b>📊 GitHub Stats</b>
-</p>
+<h3>📊 GitHub Stats</h3>
 
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saysaa&theme=github_dark" />
 <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saysaa&theme=github_dark" />
@@ -32,9 +26,7 @@
 
 <br><br>
 
-<p>
-  <b>📫 Contact</b>
-</p>
+<h3>📫 Contact</h3>
 
 <img src="https://img.shields.io/badge/Discord-saysaa__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 

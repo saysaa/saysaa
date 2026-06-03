@@ -29,4 +29,4 @@
 </div>
 
 
-![Metrics](https://metrics.lecoq.io/saysaa?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis)
+![Metrics](https://metrics.lecoq.io/saysaa?template=terminal&isocalendar=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&projects=false&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FParis)

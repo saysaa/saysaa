@@ -7,8 +7,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Location-Lyon,%20France%20%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="Lyon, France">
-
 
 
 # 💻 Tech Stack:

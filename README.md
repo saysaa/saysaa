@@ -9,10 +9,9 @@
 
 ---
 
-## 💻 I develop with
-
 <div align="center">
-
+## 💻 I develop with
+  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,9 +20,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
+  ## 📊 GitHub Stats
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saysaa&theme=github_dark" />
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saysaa&theme=github_dark" />
 </p>

@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=%F0%9F%91%8B%20Hi,%20I%27m%20saysaa!&fontSize=38&fontColor=ffffff&fontAlignY=50" />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Contributor%20to%20the%203DS%20homebrew%20scene&fontSize=22&fontColor=ffffff&fontAlignY=50" />
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Developer%20dedicated%20to%20making%20your%20life%20easier&fontSize=22&fontColor=ffffff&fontAlignY=50" />
 
 <br>

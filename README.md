@@ -32,3 +32,8 @@
 
 * **Discord:** `saysaa_`
 * *s/O gros délire en force* 🫡
+<div align="center">
+
+<img src="https://img.shields.io/badge/Discord-saysaa__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+</div>

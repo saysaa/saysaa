@@ -5,6 +5,12 @@
 ## Contributor to the 3DS homebrew scene
 ## Developer dedicated to making your life easier
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Contributor%20to%20the%203DS%20homebrew%20scene&fontSize=22&fontColor=ffffff&fontAlignY=50" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Developer%20dedicated%20to%20making%20your%20life%20easier&fontSize=22&fontColor=ffffff&fontAlignY=50" />
+
+<br>
+
 <img src="https://img.shields.io/badge/Location-Lyon,%20France%20%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="Lyon, France">
 
 

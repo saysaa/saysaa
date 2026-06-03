@@ -3,31 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=%F0%9F%91%8B%20Hi,%20I%27m%20saysaa!&fontSize=38&fontColor=ffffff&fontAlignY=50" />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Contributor%20to%20the%203DS%20homebrew%20scene&fontSize=22&fontColor=ffffff&fontAlignY=50" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Developer%20dedicated%20to%20making%20your%20life%20easier&fontSize=22&fontColor=ffffff&fontAlignY=50" />
-
-<br>
-
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=saysaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=saysaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saysaa&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=%F0%9F%91%8B%20Hi,%20I%27m%20saysaa!&fontSize=38&fontColor=ffffff&fontAlignY=50" />
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Contributor%20to%20the%203DS%20homebrew%20scene&fontSize=22&fontColor=ffffff&fontAlignY=50" />
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=C%23%20%2F%20.NET%20developer%20building%20tools,%20runtimes%20and%20utilities&fontSize=20&fontColor=ffffff&fontAlignY=50" />
 
 </div>

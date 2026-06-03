@@ -13,7 +13,7 @@
 
 I'm a developer focused on **C#/.NET**, **Nintendo 3DS homebrew tooling**, and **cross-platform utilities**.
 
-I enjoy building tools that simplify complex workflows, especially around compilation, packaging, runtime experiments, and developer automation.
+I enjoy building tools that simplify complex workflows, especially around compilation, packaging, runtime experiments, development environments, and developer automation.
 
 My main interests are:
 
@@ -21,6 +21,7 @@ My main interests are:
 * 🎮 Nintendo 3DS homebrew
 * ⚙️ C#/.NET desktop applications
 * 🧪 Runtime and SDK experiments
+* 🐧 Linux-based development environments
 * 🖥️ Cross-platform software
 * 📦 Build and packaging automation
 
@@ -48,7 +49,7 @@ Repository: [CIATools](https://github.com/saysaa/CIATools)
 
 An experimental C# runtime and SDK project for running managed C# code on the Nintendo 3DS using nanoCLR / nanoFramework.
 
-**Project goals:**
+**What it does:**
 
 * Explore C# execution on constrained hardware
 * Test nanoCLR / nanoFramework outside standard platforms
@@ -59,18 +60,20 @@ Repository: [ReSharp3DS](https://github.com/saysaa/ReSharp3DS)
 
 ---
 
-### 🔥 SteamManifestInjector
+### 🐧 CTRTux
 
-A utility for injecting `.acf` and `.lua` files for Steam.
+A custom Kubuntu-based Linux distribution made for Nintendo 3DS homebrew development.
 
-**Focus:**
+**What it does:**
 
-* Simple workflow
-* Practical desktop utility
-* C# based
-* Fast and easy to use
+* A ready-to-use development environment for 3DS homebrew
+* Preconfigured toolchains such as devkitPro, devkitARM, libctru, and 3ds-dev
+* Visual Studio Code and CMake included out of the box
+* Built-in aliases to simplify build and cleanup commands
+* CIATools integration for easier `.3dsx` and `.cia` compilation/testing
+* A dedicated landing page for downloads and project presentation
 
-Repository: [SteamManifestInjector](https://github.com/saysaa/SteamManifestInjector)
+Repository: [CTRTux](https://github.com/saysaa/CTRTux)
 
 ---
 
@@ -106,6 +109,7 @@ I'm currently working on:
 
 * Improving CIATools and its cross-platform versions
 * Experimenting with C# runtime support on Nintendo 3DS
+* Developing CTRTux as a ready-to-use Linux environment for 3DS homebrew development
 * Making my projects easier to understand and use
 * Writing cleaner documentation and setup guides
 * Building tools that help developers save time

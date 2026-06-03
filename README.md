@@ -4,6 +4,14 @@
   <img src="https://img.shields.io/badge/Location-Lyon,%20France%20%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="Lyon, France">
 </p>
 
+<a href="https://saysaa.itch.io">
+  <img src="https://img.shields.io/badge/Itch.io-saysaa-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+</a>
+<a href="https://github.com/saysaa">
+  <img src="https://img.shields.io/badge/GitHub-saysaa-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
 ---
 
 ## **💻 I develop with**
@@ -28,10 +36,6 @@
 
 ---
 
-## 💬 Contact
-
-* **Discord:** `saysaa_`
-* *s/O gros délire en force* 🫡
 <div align="center">
 
 <img src="https://img.shields.io/badge/Discord-saysaa__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />

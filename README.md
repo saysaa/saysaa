@@ -18,6 +18,15 @@
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=saysaa&layout=compact&theme=dark)
 
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saysaa&theme=github_dark" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saysaa&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saysaa&theme=github_dark&utcOffset=2" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saysaa&theme=github_dark" />
+</p>
 
 ---
 

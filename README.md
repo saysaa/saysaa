@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=%F0%9F%91%8B%20Hi,%20I%27m%20saysaa!&fontSize=38&fontColor=ffffff&fontAlignY=50" />
 
 <img src="https://img.shields.io/badge/Location-Lyon,%20France%20%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="Lyon, France">
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/px7MGB2vhX) 
 
 
 # 💻 Tech Stack:

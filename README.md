@@ -5,13 +5,6 @@
 <img src="https://img.shields.io/badge/Location-Lyon,%20France%20%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="Lyon, France">
 
 <br><br>
-<br>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=30&fontColor=ffffff&fontAlignY=50" />
 

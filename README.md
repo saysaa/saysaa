@@ -138,8 +138,4 @@ I'm currently working on:
 
 ---
 
-<div align="center">
 
-**Building tools, experimenting with runtimes, and contributing to the 3DS homebrew scene.**
-
-</div>

@@ -130,12 +130,4 @@ I'm currently working on:
 
 ---
 
-## 📫 Contact
-
-* GitHub: [@saysaa](https://github.com/saysaa)
-* Website: [saysaa.itch.io](https://saysaa.itch.io)
-* Location: Lyon, France
-
----
-
 

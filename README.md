@@ -95,10 +95,7 @@ Repository: [CTRTux](https://github.com/saysaa/CTRTux)
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=saysaa\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=saysaa\&theme=dark\&hide_border=false)
-
+![](https://github-readme-stats.shion.dev/api?username=saysaa\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false) ![](https://streak-stats.demolab.com/?user=saysaa\&theme=dark\&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saysaa\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 
 </div>

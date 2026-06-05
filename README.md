@@ -15,19 +15,7 @@ I'm a developer focused on **C#/.NET**, **Nintendo 3DS homebrew tooling**, and *
 
 I enjoy building tools that simplify complex workflows, especially around compilation, packaging, runtime experiments, development environments, and developer automation.
 
-My main interests are:
-
-* 🧰 Developer tools
-* 🎮 Nintendo 3DS homebrew
-* ⚙️ C#/.NET desktop applications
-* 🧪 Runtime and SDK experiments
-* 🐧 Linux-based development environments
-* 🖥️ Cross-platform software
-* 📦 Build and packaging automation
-
 ---
-
-## 🚀 Featured Projects
 
 ### 🛠️ CIATools
 
@@ -100,19 +88,6 @@ Repository: [CTRTux](https://github.com/saysaa/CTRTux)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131.svg?style=for-the-badge\&logo=unrealengine\&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-I'm currently working on:
-
-* Improving CIATools and its cross-platform versions
-* Experimenting with C# runtime support on Nintendo 3DS
-* Developing CTRTux as a ready-to-use Linux environment for 3DS homebrew development
-* Making my projects easier to understand and use
-* Writing cleaner documentation and setup guides
-* Building tools that help developers save time
 
 ---
 

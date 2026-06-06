@@ -8,7 +8,7 @@
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=saysaa&color=blueviolet)
 ## 🧑‍💻 About Me
 
 I'm a developer focused on **C#/.NET**, **Nintendo 3DS homebrew tooling**, and **cross-platform utilities**.
@@ -92,8 +92,6 @@ Repository: [CTRTux](https://github.com/saysaa/CTRTux)
 ---
 
 ## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=saysaa&color=blueviolet)
 
 <div align="center">
 

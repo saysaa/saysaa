@@ -21,15 +21,6 @@ I enjoy building tools that simplify complex workflows, especially around compil
 ### 🛠️ CIATools
 
 An all-in-one tool for compiling projects into `.cia` format with a cleaner and easier workflow.
-
-**What it does:**
-
-* Simplifies 3DS homebrew packaging
-* Provides multiple versions for different systems
-* Supports modern and legacy Windows environments
-* Includes a cross-platform rewrite
-* Automates parts of the compilation workflow
-
 Repository: [CIATools](https://github.com/saysaa/CIATools)
 
 ---
@@ -37,32 +28,7 @@ Repository: [CIATools](https://github.com/saysaa/CIATools)
 ### ⚙️ ReSharp3DS
 
 An experimental C# runtime and SDK project for running managed C# code on the Nintendo 3DS using nanoCLR / nanoFramework.
-
-**What it does:**
-
-* Explore C# execution on constrained hardware
-* Test nanoCLR / nanoFramework outside standard platforms
-* Create a base for 3DS homebrew logic written in C#
-* Document what works, what fails, and what can be improved
-
 Repository: [ReSharp3DS](https://github.com/saysaa/ReSharp3DS)
-
----
-
-### 🐧 CTRTux
-
-A custom Kubuntu-based Linux distribution made for Nintendo 3DS homebrew development.
-
-**What it does:**
-
-* A ready-to-use development environment for 3DS homebrew
-* Preconfigured toolchains such as devkitPro, devkitARM, libctru, and 3ds-dev
-* Visual Studio Code and CMake included out of the box
-* Built-in aliases to simplify build and cleanup commands
-* CIATools integration for easier `.3dsx` and `.cia` compilation/testing
-* A dedicated landing page for downloads and project presentation
-
-Repository: [CTRTux](https://github.com/saysaa/CTRTux)
 
 ---
 

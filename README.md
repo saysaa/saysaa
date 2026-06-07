@@ -8,9 +8,6 @@
 </div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=saysaa&color=blueviolet) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsaysaa&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
-
----
 
 ### 🛠️ CIATools
 

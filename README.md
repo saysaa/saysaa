@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=%F0%9F%91%8B%20Hi,%20I%27m%20saysaa!&fontSize=38&fontColor=ffffff&fontAlignY=50" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=Contributor%20to%20the%203DS%20homebrew%20scene&fontSize=22&fontColor=ffffff&fontAlignY=50" />
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=C%23%20%2F%20.NET%20developer%20building%20tools,%20runtimes%20and%20utilities&fontSize=20&fontColor=ffffff&fontAlignY=50" />
-
 </div>
 
 ---

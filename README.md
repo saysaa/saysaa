@@ -6,7 +6,7 @@
 
 ### My website
 <div align="center">
-  [saysaa.fr](https://saysaa.fr)
+  Click here: [saysaa.fr](https://saysaa.fr)
 </div>
 ---
 

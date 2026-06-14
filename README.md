@@ -15,8 +15,7 @@ Repository: [CIATools](https://github.com/saysaa/CIATools)
 
 ---
 
-### ⚙️ ReSharp3DS <img width="88" height="31" alt="image" src="https://github.com/user-attachments/assets/eaefd1ce-a64c-4d8a-a2be-8fb9fa0b9e27" />
-
+### ⚙️ ReSharp3DS
 
 An experimental C# runtime and SDK project for running managed C# code on the Nintendo 3DS using nanoCLR / nanoFramework.
 
